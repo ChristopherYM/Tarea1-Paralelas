@@ -1,3 +1,6 @@
 # Tarea1-Paralelas
-Pruebas sobre el comportamiento de la memoria caché: Bucles anidados\\
-Alumno: Christopher Yquira Miranda
+# Alumno: Christopher Yquira Miranda
+
+Pruebas sobre el comportamiento de la memoria caché: Bucles anidados
+
+
